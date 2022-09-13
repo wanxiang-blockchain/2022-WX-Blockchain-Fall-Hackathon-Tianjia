@@ -1,1 +1,1 @@
-# 2022-WX-Blockchain-Spring-Hackathon-Tianjia
+# 2022-WX-Blockchain-Fall-Hackathon-Tianjia
